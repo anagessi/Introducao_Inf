@@ -1,0 +1,1 @@
+A interface do usuário é o meio pelo qual podemos nos comunicarmos com um computador, introduzindo dados de entrada. 

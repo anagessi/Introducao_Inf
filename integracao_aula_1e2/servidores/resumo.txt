@@ -1,0 +1,1 @@
+Servidor é um computador capaz de atender às solicitações de um cliente e retornar uma resposta adequada, podendo ter computadores exclusivos ou com mais de um serviço disponível ao cliente. Existem  tipos de servidores, de arquivos, de banco de dados e web.

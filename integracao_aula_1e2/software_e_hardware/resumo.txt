@@ -1,0 +1,3 @@
+Hardware são as partes físicas e tangíveis de um computador. Podem ser hardwares de entrada, como o teclado e mouse, e de saída, como a tela e também podem ser internos, como a placa mãe. 
+
+Softwares é o sistema formal de um sistema de computador e que compreende todos os componentes lógicos necessários para realizar tarefas específicas, podendo ser softwares de sistemas, de programação ou de aplicação. 
