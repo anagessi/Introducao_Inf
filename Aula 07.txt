@@ -1,0 +1,3 @@
+Matilda -> Intel Core i7 -> O jogo recomenda um processador, no mínimo, Inter Core i5. Porém, como jogos requerem um processador melhor, o mais indicado, entre os sugeridos, é o i7.
+Marcelo -> Intel Core i3 -> como, dentre as três demandas, o Office 2019 exige menos do processador, o inter core i3 é o suficiente
+Carlos -> Inter Core i5 -> O Adobe After Effects precisa de um processador melhor que o do Marcelo, mas não precisa de um processador melhor que a da Matilda, então o i5 é suficiente.  
